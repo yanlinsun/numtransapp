@@ -2,6 +2,20 @@
 
 A web application to transform number into English currency representation. 
 
+It is developed by:
+
+* Visual Studio 2010
+* .Net Framework 4.0
+* .Net MVC 3
+* ASP.NET
+* C#
+
+Other highlights:
+
+* Implemented using MVC architecture
+* Data driven unit test. Using an external csv file as test case data source
+* Deployed on Microsoft Azure cloud environment. [Check it on Azure](http://numtransapp.azurewebsites.net/)
+
 **For example**:
 
 ``100.10 => One Hundred Dollars and Ten Cents``
