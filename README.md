@@ -10,11 +10,12 @@ It is developed by:
 * ASP.NET
 * C#
 
-**highlights**:
+**Highlights**:
 
 * Implemented using MVC architecture
 * Data driven unit test. Using an external csv file as test case data source
-* Deployed on Microsoft Azure cloud environment. 
+* Deployed on Microsoft Azure cloud environment.
+
         [Check it on Azure](http://numtransapp.azurewebsites.net/)
 
 **For example**:
