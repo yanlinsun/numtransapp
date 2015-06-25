@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumTransApp", "NumTransApp\NumTransApp.csproj", "{BC4AF37F-B5B2-4D2C-963F-45AFBDD3DE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumTransApp.Tests", "NumTransApp.Tests\NumTransApp.Tests.csproj", "{793434CC-A912-4BD0-9665-82140807746F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4AF37F-B5B2-4D2C-963F-45AFBDD3DE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4AF37F-B5B2-4D2C-963F-45AFBDD3DE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4AF37F-B5B2-4D2C-963F-45AFBDD3DE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4AF37F-B5B2-4D2C-963F-45AFBDD3DE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793434CC-A912-4BD0-9665-82140807746F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793434CC-A912-4BD0-9665-82140807746F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793434CC-A912-4BD0-9665-82140807746F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793434CC-A912-4BD0-9665-82140807746F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,60 @@
+Number,Expected,Negative
+"0",Zero Dollar,
+"1",One Dollar,
+"2",Two Dollars,
+"101",One Hundred and One Dollars,
+"12",Twelve Dollars,
+"78",Seventy Eight Dollars,
+"100",One Hundred Dollars,
+"123",One Hundred and Twenty Three Dollars,
+"1234567890",One Billion Two Hundred and Thirty Four Million Five Hundred and Sixty Seven Thousand Eight Hundred and Ninety Dollars,
+"1,000",One Thousand Dollars,
+"1,200",One Thousand Two Hundred Dollars,
+"1,000,000",One Million Dollars,
+"1,000,100",One Million One Hundred Dollars,
+"1,000,001",One Million One Dollars,
+"1,000,010",One Million Ten Dollars,
+"10,010,010",Ten Million Ten Thousand Ten Dollars,
+"10,010,110",Ten Million Ten Thousand One Hundred and Ten Dollars,
+"1000,000,100",One Billion One Hundred Dollars,
+"11,00",,Y
+"1,00,010",,Y
+"11,0000",,Y
+"111,,000",,Y
+"0.01",One Cent,
+"0.02",Two Cents,
+"0.09",Nine Cents,
+"0.10",Ten Cents,
+"0.1",Ten Cents,
+"0.9",Ninety Cents,
+"1.01",One Dollar and One Cent,
+"2.02",Two Dollars and Two Cents,
+"3.99",Three Dollars and Ninety Nine Cents,
+"1234567.01",One Million Two Hundred and Thirty Four Thousand Five Hundred and Sixty Seven Dollars and One Cent,
+"12037425824.29474",Twelve Billion Thirty Seven Million Four Hundred and Twenty Five Thousand Eight Hundred and Twenty Four Dollars and Twenty Nine Cents,
+"1.010",One Dollar and One Cent,
+"1.019",One Dollar and One Cent,
+"1.109",One Dollar and Ten Cents,
+"1.119",One Dollar and Eleven Cents,
+".00",Zero Dollar,
+".01",One Cent,
+".1",Ten Cents,
+"0.00",Zero Dollar,
+"0,000,000.0000",Zero Dollar,
+"0000000.0000",Zero Dollar,
+"1.00",One Dollar,
+"1.000",One Dollar,
+"2.00",Two Dollars,
+"1,500.0",One Thousand Five Hundred Dollars,
+"1..0",,Y
+"1.1.1",,Y
+"1..0",,Y
+"1..0",,Y
+"1.",,Y
+"1..0",,Y
+"-1",,Y
+"-1.23",,Y
+"-1234.56",,Y
+"123.56w0",,Y
+"100,000,100,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000.99",One Hundred Vigintillion One Hundred Octodecillion Dollars and Ninety Nine Cents,
+"1,000,000,000,100,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000.99",,Y
